@@ -5,7 +5,7 @@
       <element id="javaee-facet-resources" facet="HTML_learning/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="HTML_CSS_learning" />
+          <element id="module-output" name="HTML_CSS_JS_learning" />
         </element>
       </element>
     </root>
